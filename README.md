@@ -5,7 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dangdinhtai0001" alt="dangdinhtai0001" /></a> </p>
 
+- 🌱 I’m currently learning **Spring framework**
+
+- 🤝 I’m looking for help with [Spring boot API Template](https://github.com/dangdinhtai0001/spring-boot-api-template.git)
+
+- 💬 Ask me about **Spring, vue,**
+
 - 📫 How to reach me **dangdinhtai0001@gmail.com**
+
+- ⚡ Fun fact **I think i am funny :v**
 
 
 <h3 align="left">Languages and Tools:</h3>
