@@ -16,3 +16,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dangdinhtai0001&show_icons=true&locale=en" alt="dangdinhtai0001" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dangdinhtai0001&" alt="dangdinhtai0001" /></p>
+
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=dangdinhtai0001)](https://github.com/anuraghazra/github-readme-stats)
+
+---
+ https://github.com/rahuldkjain/github-profile-readme-generator.git
